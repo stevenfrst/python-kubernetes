@@ -1,5 +1,6 @@
 # python-kubernetes
-# Bismillah
+
+
 This Scripct used for install for kubernetes with some simple script
 How To Use ? 
 Just Say Bismillah Before Use to get some barokah :'v
